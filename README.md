@@ -11,3 +11,7 @@ fibers perpendicular to the cut
 
 moisten the plywood before bending (water or steam)
 bend slowly with pauses
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
